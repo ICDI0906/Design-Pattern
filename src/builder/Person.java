@@ -1,4 +1,4 @@
-package builder;
+package Builder;
 /*
  * 使用建造者模式创建人物
  */

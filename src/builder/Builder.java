@@ -1,4 +1,4 @@
-package builder;
+package Builder;
 
 public interface Builder {
 	void buildPart();

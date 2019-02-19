@@ -239,7 +239,7 @@
                           </org.eclipse.ui.views.properties.PropertyDescriptor>
                         </propertyDescriptors>
                         <stereoType></stereoType>
-                        <name>builder.Builder</name>
+                        <name>Builder.Builder</name>
                       </target>
                       <bendpoints/>
                     </net.java.amateras.uml.classdiagram.model.RealizationModel>
@@ -442,7 +442,7 @@
                     </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
                   </propertyDescriptors>
                   <stereoType></stereoType>
-                  <name>builder.PersonBuilder</name>
+                  <name>Builder.PersonBuilder</name>
                   <isAbstract>false</isAbstract>
                 </target>
                 <bendpoints/>
@@ -653,7 +653,7 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>builder.Person</name>
+            <name>Builder.Person</name>
             <isAbstract>false</isAbstract>
           </net.java.amateras.uml.classdiagram.model.ClassModel>
           <net.java.amateras.uml.classdiagram.model.ClassModel reference="../net.java.amateras.uml.classdiagram.model.ClassModel[2]/sourceConnections/net.java.amateras.uml.classdiagram.model.AggregationModel/target"/>
@@ -878,7 +878,7 @@
         </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
       </propertyDescriptors>
       <stereoType></stereoType>
-      <name>builder.Director</name>
+      <name>Builder.Director</name>
       <isAbstract>false</isAbstract>
     </net.java.amateras.uml.classdiagram.model.ClassModel>
     <net.java.amateras.uml.classdiagram.model.ClassModel reference="../net.java.amateras.uml.classdiagram.model.ClassModel/parent/children/net.java.amateras.uml.classdiagram.model.ClassModel[2]"/>

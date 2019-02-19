@@ -1,4 +1,4 @@
-package prototype;
+package Prototype;
 
 public class ConcretePrototype1 extends Prototype {
 

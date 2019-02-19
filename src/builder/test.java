@@ -1,4 +1,4 @@
-package builder;
+package Builder;
 public class test {
 	public static void main(String args[]) {
 //		Person p1 = new Person.Builder("zhang").build();

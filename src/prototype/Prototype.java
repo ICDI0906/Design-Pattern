@@ -1,4 +1,4 @@
-package prototype;
+package Prototype;
 
 public class Prototype implements Cloneable{
 	public Prototype clone() {

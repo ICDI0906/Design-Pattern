@@ -1,4 +1,4 @@
-package builder;
+package Builder;
 
 public class PersonBuilder implements Builder {
 	private Person person;
