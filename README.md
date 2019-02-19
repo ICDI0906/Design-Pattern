@@ -1,5 +1,5 @@
 # Design-Pattern
-包含了java 中23种设计模式，用了三天时间来学习和整理。
+包含了java 中23种设计模式，用了三天时间来学习和整理。使用的IED为<b>Eclipse</b>,类图使用的是<b>AmaterasUML</b>插件自动生成的。
 ### 创建型
 [抽象工厂模式(abstract_factory)](src/abstract_factory), [建造者模式(Builder)](src/Builder), [工厂方法模式(factory method)](src/factory_method), [原型模式(Prototype)](src/Prototype), [单例模式(Singleton)](src/Singleton)
 ### 结构型
